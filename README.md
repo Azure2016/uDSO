@@ -15,8 +15,12 @@
 ## 关于 uDSO
 * 这是一个长期开发和更新的项目，不会有明确的更新时间和终止期限，uDSO 开源、自由、跨平台（Linux/Windows）！
 * 公布所有源代码，以及采样设备的原理图和PCB文件（假如这些东西都能被公开的话）...
-#### 软件运行截图（Windows10系统下）
 
+#### 软件运行截图
+Windows10 系统下
+![image 运行截图1](screenshot/20160119223711.png)
+Windows10 系统下
+![image 运行截图2](screenshot/20160119223728.png)
 
 ## TODO
 ### 现有问题：
@@ -28,4 +32,10 @@
 - 赶紧第一版程序，将源代码上传公开！！！
 - 最好给程序写一份说明文档
 
+## License
+GNU GENERAL PUBLIC LICENSE Version 3
+
 ## 关于作者
+![image AzureIcon](screenshot/Azure.png)
+
+Email: 1507015092@qq.com

@@ -23,8 +23,10 @@ Windows10 系统下
 Windows10 系统下
 ![image 运行截图2](screenshot/20160119223728.png)
 #### 硬件电路效果图
-![image 电路效果图1]()
-![image 电路效果图2]()
+电路效果图_正面
+![image 电路效果图1](screenshot/电路效果图_正面.png)
+电路效果图_背面
+![image 电路效果图2](screenshot/电路效果图_背面.png)
 
 ## TODO
 ### 现有问题：

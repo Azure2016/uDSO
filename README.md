@@ -19,14 +19,14 @@
 
 #### 软件运行截图
 Windows10 系统下
-![image 运行截图1](Picture/20160119223711.png)
+![image 运行截图1](screenshot/20160119223711.png)
 Windows10 系统下
-![image 运行截图2](Picture/20160119223728.png)
+![image 运行截图2](screenshot/20160119223728.png)
 #### 硬件电路效果图
 电路效果图（正面）
-![image 电路效果图1](Picture/电路效果图_正面.png)
+![image 电路效果图1](screenshot/电路效果图_正面.png)
 电路效果图（背面）
-![image 电路效果图2](Picture/电路效果图_背面.png)
+![image 电路效果图2](screenshot/电路效果图_背面.png)
 
 ## TODO
 ### 现有问题：

@@ -25,10 +25,8 @@ Windows10 系统
 ![image 运行截图2](Screenshot/20160119223728.png)
 
 #### 硬件电路效果图
-电路效果图（正面）
-![image 电路效果图1](Screenshot/电路效果图_正面.png)
-电路效果图（背面）
-![image 电路效果图2](Screenshot/电路效果图_背面.png)
+主控板电路效果图
+![image 电路效果图](Screenshot/主控电路效果图.png)
 
 ## TODO
 ### 现有问题：
